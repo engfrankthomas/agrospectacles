@@ -1,0 +1,127 @@
+﻿SRS 
+Project: Agro spec
+Organization: BUNI - AgroLenz
+Introduction 
+Purpose:
+1. Plant disease detection 
+2. To give farmer information 
+3. Enable communication between farmers and specialists and other stakeholders
+4. Database – plant disease and pests 
+5. Database – solutions
+6. Database – stores
+
+Audience 
+1. Investors 
+2. Engineers 
+3. Researchers
+4. Agronomists
+5. Developers 
+
+Product scope
+
+References 
+1. Elia Kinshaga paper 
+2. AIRINOV
+
+Overall description 
+Productive perspective
+No existing system in Africa
+
+Product function
+1. Track location of the farm
+2. Take images
+3. Send and do analysis and comparison of data
+4. Provide analysis inform of probability
+5. Draw conclusion
+6. Derive possible solution 
+7. Send feedback to a farmer
+8. Enable specialist to do analysis 
+9. One specialist can serve many farmers
+
+Users classes and characteristics 
+1. Farmer
+2. Agronomist 
+3. Researchers
+4. Pathologists 
+5. Entomologist
+
+Operating environment 
+1. Farm 
+2. Research labs
+3. University and Colleges
+
+Design and Implementation constrains
+1. Cost of cameras
+2. Understanding of farmer on use of technology
+3. No existing digital database of plant diseases (but books are available)
+4. English language is a challenge
+5. Power problem
+
+User documentation
+1. Manuals and user guide 
+2. Seminars
+
+Assumption and Dependencies 
+1. Network coverage
+2. Quality of images
+3. User friendly 
+
+External interface 
+1. User interface
+a. Farmer – mkulima tablet
+b. Researcher – web application
+c. Others – 
+2. Hardware interfaces 
+a. Farmer – mkulima tablet 
+b. Researcher – smartphone and computer
+3. Software interfaces 
+Operating system – android 
+
+Components of the system 
+1. Camera
+2. Flashlight
+3. Microphone 
+4. GPS unit
+5. Rechargeable battery
+6. Storage unit
+7. Speaker 
+8. LCD touchscreen 
+
+Communication interface 
+1. Wi-Fi
+2. Ethernet 
+
+System features 
+Functional requirements
+What the system should I do?
+1. The system should be able to take pictures 
+2. The system should be able to send pictures to the application server for analysis
+3. The system should be able to analyze picture received from the farmer
+4. The system should be able to compare analysis and give results
+5. The system should be able to allow agronomist to review analysis
+6. The system should be able to register farmers, agronomist, researcher and institutions 
+7. The system should have database of crop pests and diseases
+8. The system should provide technical support to farmers
+9. The system should be able to generate both technical and simple report for farmers
+10. The device should be able to be used multiple farmers and have simple language (Kiswahili and English)
+
+Nonfunctional requirements 
+These are divided in three categories:
+1. Organization nonfunctional requirement 
+2. Product nonfunctional requirement and 
+3. External nonfunctional requirement. 
+
+Product nonfunctional requirements
+1. The system should be efficient
+2. The system should be reliable
+3. Farmers information should be confidential
+4. No farmer’s information are stored on a device 
+5. The device should be portable
+6. The device should be maintainable 
+
+Business rules 
+1. Farmers buy a device 
+2. Researchers subscribe for a service
+3. Agronomists get paid to provide services
+
+Next: design specification
