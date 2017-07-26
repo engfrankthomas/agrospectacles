@@ -1,0 +1,50 @@
+﻿Problem 
+- Difficulty in detecting the plant diseases that affect crops 
+- Low number of Agricultural officials (Extension officers)
+- Destruction of plants due to untreated diseases on time
+
+Customer Segments
+- Farmers (medium farmers and large farmers)
+- Data Researchers
+- Universities/colleges
+Unique value propositions
+- New thing in Tanzania
+- Affordability
+- It directs you to nearby and trusted stores where you can get the suggested medicine
+- Reliable
+- Plays the role of specialists
+
+Solutions
+- A software that helps in the detection of plant diseases through image analysis
+- It also provides the most appropriate solution on how to overcome the disease and its effects.
+- One specialist can operate many farmers in short period of time.
+- A database that helps the agricultural specialists/researchers to detect the areas that are mostly and least affected by plant diseases throughout the country.
+
+Unfair advantage
+- A digital database contributed by capable local specialists.
+- Our system will connect farmers and medical shop owners. we will have the contracts with shop owners in a sense that once we sign other competitors won’t be able to sign new contract with them.
+ 
+Revenue Streams
+- Selling of products (Farmers)
+- Data selling to data collectors
+- Usage fee for the University and Research Labs[GN1] 
+- Store owners
+Cost Structure
+- Buying of items that are impossible to manufacture locally
+- Registration of company (tax & Vat)
+- Advertisement of our product
+- Transportation of our products to customers 
+- Hosting costs (database and application).
+
+Key metrics
+- By a year we expect to have a fully equipped database on plant diseases
+- We expect to have roughly 500 users and customers
+
+Channels
+- Word of mouth (personal selling).
+- advertisements
+- Seminars
+
+
+
+[GN1]Discuss how to charge them
