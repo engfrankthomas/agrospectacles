@@ -1,0 +1,15 @@
+software requirements
+1. knowledge and tools for python programming
+2. DBMS
+3. Android operating system file(.iso)
+4. Android studio
+5. MySQL workbench
+6. IDE(vs code, sublime)
+
+Hardware requirements
+1. Raspberry Pi3
+2. TFT touchscreen
+3. 8MP camera for Raspberry Pi3
+4. Internal 3G modem
+	Itead Raspberry Pi GSM Board(SIM800)
+5. Case(to be printed)
