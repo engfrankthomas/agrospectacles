@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+    android:background="@color/lightBlue"
+tools:context="com.agrolenz.agrolenz.activity.Redirect">
+<TextView
+    android:layout_width="match_parent"
+    android:text="@string/pre_instruction"
+    android:layout_height="wrap_content"
+    android:textSize="28sp"
+    android:textAllCaps="true"
+    />
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/plant_selected"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/plant_selected_name"
+            android:textAlignment="center"
+            />
+        <com.joanzapata.iconify.widget.IconTextView
+            android:text="{fa-cog spin} chagua picha ya mmea ili tuweze kuendelea na uchunguzi"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_marginTop="30dp"
+            android:padding="10dp"
+            android:textSize="15sp"
+            />
+
+        <com.joanzapata.iconify.widget.IconTextView
+            android:text="{fa-folder-open-o} chagua kutoa kwenye simu"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:padding="5dp"
+            android:background="@drawable/background_for_button"
+            android:textSize="15sp"
+            android:onClick="getfile"
+            />
+
+        <com.joanzapata.iconify.widget.IconTextView
+            android:text="   {fa-camera}      piga kutoka kwenye camera"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/background_for_button"
+            android:layout_width="match_parent"
+            android:padding="5dp"
+            android:textSize="15sp"
+            android:onClick="lauchcamera"
+            />
+
+    </LinearLayout>
+</ScrollView>
+</LinearLayout>
